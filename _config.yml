@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://github.com/shanefeng123/page/blob/gh-pages/assets/images/profile_pic.jpg
+external-image: false
+picture: assets/images/profile_pic.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -20,7 +20,7 @@ dark-theme: auto
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
 
-url: https://shanefeng123.github.io/page/
+url: https://shanefeng123.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
