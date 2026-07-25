@@ -37,7 +37,7 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: shane-feng-733aba138/
+linkedin: xinguo-feng-733aba138/
 github: shanefeng123
 email: s.feng@uq.edu.au
 
@@ -110,6 +110,7 @@ compress_html:
 exclude:
   [
     "README.md",
+    "SERVING.md",
     "Gemfile",
     "Gemfile.lock",
     "FAQ.md",
